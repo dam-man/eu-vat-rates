@@ -32,7 +32,7 @@
         "country": "Belgium",
         "rates": {
           "standard": {
-            "value": 21
+            "value": 20
           },
           "reduced": {
             "value": 12,
