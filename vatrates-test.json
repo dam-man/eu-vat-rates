@@ -6,7 +6,7 @@
         "country": "Austria",
         "rates": {
           "standard": {
-            "value": 20
+            "value": 21
           },
           "reduced": {
             "value": 10,
